@@ -4,3 +4,4 @@
 * Creating Groups and adding platforms to the group
 * Using Groups and Sprites to detect collisions
 * Adding and deleting Sprites via Groups for projectile objects
+* 
